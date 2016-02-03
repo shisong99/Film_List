@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+film{
+	text-align: center;
+}
+
+filmdes{
+    display:block;
+	font:"Times New Roman";
+	font-size: 12pt;
+	margin-bottom: 30pt;
+	border:2px solid pink;
+	margin:50px;
+	}
+    
+Title{
+	
+	display:block;
+	font-weight: bold;
+	font-size: 14pt;
+}
+Author{
+	display:block;
+	color: red;
+}
+Year{
+	display:block;
+	color: red;
+}
+Art{
+	display:block;
+	color: blue;
+	text-align: italic;
+	text-decoration: underline;
+	
+}
+Describ{
+	display:block;
+	color: orange;
+}
+Lang,Score,Prodate,Duration{
+	display:block;
+}

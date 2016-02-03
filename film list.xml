@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE film SYSTEM "film.dtd">
+<?xml-stylesheet type="text/css" href="mycss.css"?>
+
+<film>
+	  <filmdes>
+	  	<Title>Les Brigades du Tigre</Title>
+	  	<Duration>2h5min</Duration>
+	  	<Author>Jérôme Cornuau</Author>
+	  	<Actlist>
+	  		<Art >C. Cornillac</Art>
+	  		<Art>D. Kruger</Art>
+	  		<Art>E. Baer</Art>
+	  	</Actlist>
+	  	<Year>2005</Year>	
+	  	<Lang>VF</Lang>
+	  	<Score>
+	  		<Press>3/5</Press>
+	  	    <Spec>4/5</Spec>
+	  	</Score>
+	  	<Describ>About the adventures of commissar Valentin and inspectors Terrasson and Pujol, members of the " Brigades mobiles", special squad of the French police before the first world war..</Describ>
+	  	<Projectiondt>
+	  	     <Prodate> Wed, Sat:
+	  	       <Protime> 14:00 | 16:40| 19:40| 22:10</Protime>
+	  	     </Prodate> 	
+	  	     <Prodate> Tue, Fri, Mon, Thu:
+	  	       <Protime> 14:00 | 19:40 | 22:10</Protime>
+	  	     </Prodate> 
+	  	     <Prodate> Sun:
+	  	       <Protime> 10:20 | 14:00 | 16:40 | 20:20</Protime>
+	  	     </Prodate>
+	  	</Projectiondt>
+	  </filmdes>	
+	  <filmdes>
+	  	<Title>Fanfan</Title>
+	  	<Duration>1h26min</Duration>
+	  	<Author>Alex</Author>
+	  	<Actlist>
+	  		<Act>Sophie Marceau</Act>
+	  		<Act>Vincent Perez</Act>
+	  	</Actlist>
+	  	<Year>1993</Year>	
+	  	<Lang>VF</Lang>
+	  	<Score>
+	  		<Press>4.5/5</Press>
+	  	    <Spec>4.3/5</Spec>
+	  	</Score>
+	  	<Describ>Alexandre (Vincent Perez) is frustrated with his fiancé, Laure (Marine Delterme), whose idea of a romantic Valentine's Day gift is a pair of slippers. The passion and magic of their initial courtship has been replaced by routine and boredom. Needing to get away, Alexandre visits the beachfront cottage of his friends, Ti (Gérard Séty) and Maude (Micheline Presle). There he meets a beautiful young woman, Fanfan (Sophie Marceau), who is Maude's granddaughter and a student at Maude's school, studying to become a perfumer or Nose. Although they sleep in the same bed that night, Alexandre avoids any physical contact.</Describ>
+	  	<Projectime>
+	  		<Prodate> Wed, Sat:
+	  	       <Protime> 10:00 | 13:40| 18:40| 20:10</Protime>
+	  	     </Prodate> 	
+	  	     <Prodate> Tue, Mon, Thu:
+	  	       <Protime> 11:00 | 12:40 | 23:10</Protime>
+	  	     </Prodate> 
+	  	     <Prodate> Sun:
+	  	       <Protime> 10:20 | 14:00 | 16:40 | 20:20</Protime>
+	  	     </Prodate>
+	  	</Projectime>
+	  </filmdes>	
+	  <filmdes>
+	  	<Title>The.Imitation.Game</Title>
+	  	<Duration>1h44min</Duration>
+	  	<Author>Morten Tyldum</Author>
+	  	<Actlist>
+	  		<Art>Benedict Cumberbatch</Art>
+	  		<Art>Keira Knightly</Art>
+	  		<Art>Matthew Goode</Art>
+	  	</Actlist>
+	  	<Year>2014</Year>	
+	  	<Lang>En</Lang>
+	  	<Score>
+	  	    <Press>5/5</Press>
+	  	    <Spec>5/5</Spec>
+	    </Score>
+	  	<Describ>The film's screenplay topped the annual Black List for best unproduced Hollywood scripts in 2011. The Weinstein Company acquired the film for $7 million in February 2014, the highest amount ever paid for U.S. distribution rights at the European Film Market. It was released theatrically in the United Kingdom on 14 November and the United States on 28 November.</Describ>
+	  	<Projectime> 
+	  		<Prodate> Wed, Sat:
+	  	       <Protime> 16:00 | 18:40| 19:40| 20:10</Protime>
+	  	     </Prodate> 	
+	  	     <Prodate> Tue, Mon,Sun :
+	  	       <Protime> 11:00 | 16:40 | 23:10</Protime>
+	  	     </Prodate> 
+	  	     <Prodate> Thu:
+	  	       <Protime> 10:20 | 15:00 | 16:40 | 20:20</Protime>
+	  	     </Prodate>
+	  	</Projectime>
+	  </filmdes>	
+	  <filmdes>
+	  	<Title>Braveheart</Title>
+	  	<Duration>2h</Duration>
+	  	<Author>Mel Gibson</Author>
+	  	<Actlist>
+	  		<Art>Mel Gibson</Art>
+	  		<Art>Sophie Marceau</Art>
+	  		<Art>Patrick McGoohan</Art>		
+	  	</Actlist>
+	  	<Year>1995</Year>	
+	  	<Lang>Vf</Lang>
+	  	<Score>
+	  	    <Press>4/5</Press>
+	  	    <Spec>4.2/5</Spec>
+	  	</Score>    
+	  	<Describ>he film was nominated for ten Academy Awards at the 68th Academy Awards and won five: Best Picture, Best Makeup, Best Cinematography, Best Sound Editing, and Best Director.</Describ>
+	  	<Projectime>
+	  		 <Prodate> Wed, Sat:
+	  	       <Protime> 16:00 | 18:40| 19:40| 20:10</Protime>
+	  	     </Prodate> 	
+	  	     <Prodate> Tue, Mon,Sun :
+	  	       <Protime> 11:00 | 16:40 | 23:10</Protime>
+	  	     </Prodate> 
+	  	     <Prodate> Thu:
+	  	       <Protime> 10:20 | 15:00 | 16:40 | 20:20</Protime>
+	  	     </Prodate>
+	  	</Projectime>
+	  </filmdes>	
+	  <filmdes> 
+	  	<Title>Once in a Lifetime </Title>
+	  	<Duration>1h30min</Duration>
+	  	<Author>Moss Hart</Author>
+	  	<Actlist>
+	  		<Act>Farrar</Act>
+	  		<Act>Rinehart</Act>
+	  	</Actlist>
+	  	<Year>1930</Year>	
+	  	<Lang>VF</Lang>
+	  	<Score>
+	  	   <Press>3/5</Press>
+	  	   <Spec>3.5/5</Spec>
+	  	</Score>
+	  	<Describ>The satirical comedy focuses on the effect talking pictures have on the entertainment industry. When the New York City vaudevillean team of Jerry Hyland, May Daniels, and George Lewis find themselves in a faltering vaudeville act, they decide to head west and present themselves as elocution experts in the hope someone will hire them to train actors unaccustomed to speaking on screen. On the train they meet gossip columnist Helen Hobart, who introduces them to megalomaniac film mogul Herman Glogauer when they arrive in Hollywood.
+	  	</Describ>
+	  	<Projectime>
+	  		<Prodate> Wed, Mon:
+	  	       <Protime> 2:00 | 15:40| 18:40| 20:10</Protime>
+	  	     </Prodate> 	
+	  	     <Prodate> Tue, Sat, Thu:
+	  	       <Protime> 11:00 | 20:40 | 23:10</Protime>
+	  	     </Prodate> 
+	  	     <Prodate> Sun:
+	  	       <Protime> 10:20 | 14:00 | 18:00 | 20:20</Protime>
+	  	     </Prodate>
+	  	</Projectime>
+	  </filmdes>	
+</film>

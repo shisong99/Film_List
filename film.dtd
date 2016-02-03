@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT film(filmdes+)>
+<!ELEMENT filmdes(Title,Duration,Author,Actlist,Year,Lang,Score,Describ,Projectiondt)>
+<!ELEMENT Title(#PCDATA)#REQUIRED>
+<!ELEMENT Duration(#PCDATA)>
+<!ELEMENT Author(#PCDATA)>
+<!ELEMENT Actlist(Art+)>
+<!ELEMENT Art(#PCDATA)>
+<!ELEMENT Year(#PCDATA)>
+<!ELEMENT Lang(#PCDATA)>
+<!ELEMENT Score(Press,Spec)#IMPLIED>
+<!ELEMENT Press(#PCDATA)>
+<!ELEMENT Spec(#PCDATA)>
+<!ELEMENT Describ(#PCDATA)>
+<!ELEMENT Projectiondt(Prodate)#REQUIRED>
+<!ELEMENT Prodate(Protime+)>
+<!ELEMENT Protime(#PCDATA)>
